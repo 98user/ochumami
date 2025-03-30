@@ -1,6 +1,8 @@
 # 🍶 ochumami
 
-![Home](assets/screenshots/01.PNG) ![CocktailScreen](assets/screenshots/02.PNG) ![ReceipeScreen](assets/screenshots/03.PNG)
+<img src="assets/screenshots/01.PNG" width="300" alt="Home Screen" />
+<img src="assets/screenshots/02.PNG" width="300" alt="Sake Screen" />
+<img src="assets/screenshots/03.PNG" width="300" alt="Recipe Screen" />
 
 **Keep a record of your favorite drinks and snacks.**  
 Log the sake, wine, beer, or cocktails you’ve enjoyed, along with how they tasted and which snacks paired well with them.  
