@@ -1,6 +1,6 @@
 # 🍶 ochumami
 
-![Home](assets/screenshots/01.png) ![CocktailScreen](assets/screenshots/02.png) ![ReceipeScreen](assets/screenshots/03.png)
+![Home](assets/screenshots/01.PNG) ![CocktailScreen](assets/screenshots/02.PNG) ![ReceipeScreen](assets/screenshots/03.PNG)
 
 **Keep a record of your favorite drinks and snacks.**  
 Log the sake, wine, beer, or cocktails you’ve enjoyed, along with how they tasted and which snacks paired well with them.  
